@@ -13,5 +13,8 @@
   "author": "Eevert Saukkokoski",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "gitHead": "f3c6b6ac887db3bf72a8351261a8cf0a32098ddf"
+  "gitHead": "f3c6b6ac887db3bf72a8351261a8cf0a32098ddf",
+  "devDependencies": {
+    "broccoli": "^0.4.1"
+  }
 }
