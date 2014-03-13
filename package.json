@@ -19,6 +19,7 @@
     "broccoli": "^0.4.1",
     "broccoli-coffee": "^0.1.0",
     "broccoli-browserify": "0.0.1",
-    "coffee-script": "^1.7.1"
+    "coffee-script": "^1.7.1",
+    "grunt": "^0.4.4"
   }
 }
