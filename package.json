@@ -1,0 +1,17 @@
+{
+  "name": "nads",
+  "version": "0.0.0",
+  "description": "Mo' nads for Javascript. Fantasy-Land compatible.",
+  "main": "nads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ezku/nads.git"
+  },
+  "author": "Eevert Saukkokoski",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "f3c6b6ac887db3bf72a8351261a8cf0a32098ddf"
+}
