@@ -1,4 +1,4 @@
 nads
 ====
 
-Mo' nads for Javascript. Fantasy-Land compatible.
+Mo' nads for Javascript. Curated collection of Fantasy-Land compatible assets.
