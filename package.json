@@ -17,7 +17,8 @@
   "gitHead": "f3c6b6ac887db3bf72a8351261a8cf0a32098ddf",
   "dependencies": {
     "coffee-script": "^1.7.1",
-    "aljebra": "0.0.2"
+    "aljebra": "0.0.2",
+    "data.validation": "^1.1.0"
   },
   "devDependencies": {
     "gulp": "^3.5.6",
