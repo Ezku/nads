@@ -1,6 +1,6 @@
 {
   "name": "nads",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mo' nads for Javascript. Curated collection of Fantasy-Land compatible assets.",
   "main": "src/nads.coffee",
   "scripts": {
