@@ -1,7 +1,7 @@
 {
   "name": "nads",
   "version": "0.2.0",
-  "description": "Mo' nads for Javascript. Curated collection of Fantasy-Land compatible assets.",
+  "description": "A gateway drug to programming with algebraic datatypes.",
   "main": "src/nads.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
