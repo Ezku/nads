@@ -1,6 +1,6 @@
 {
   "name": "nads",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A gateway drug to programming with algebraic datatypes.",
   "main": "src/nads.coffee",
   "scripts": {
