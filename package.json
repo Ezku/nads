@@ -11,6 +11,14 @@
     "type": "git",
     "url": "git://github.com/Ezku/nads.git"
   },
+  "keywords": [
+    "maybe",
+    "either",
+    "validation",
+    "monad",
+    "applicative",
+    "fantasy-land"
+  ],
   "author": "Eevert Saukkokoski",
   "license": "MIT",
   "readmeFilename": "README.md",
