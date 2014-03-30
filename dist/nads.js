@@ -567,8 +567,25 @@
 module.exports = {
   Maybe: require('data.maybe'),
   Either: require('data.either'),
-  Validation: require('data.validation')
+  Validation: require('data.validation'),
+  Try: require('./nads/Try')
 };
 
 
-},{"data.either":1,"data.maybe":2,"data.validation":3}]},{},[4])
+},{"./nads/Try":5,"data.either":1,"data.maybe":2,"data.validation":3}],5:[function(require,module,exports){
+var Either, Try;
+
+Either = require('data.either');
+
+module.exports = Try = function(f) {
+  var e;
+  try {
+    return Either.Right(f());
+  } catch (_error) {
+    e = _error;
+    return Either.Left(e);
+  }
+};
+
+
+},{"data.either":1}]},{},[4])
